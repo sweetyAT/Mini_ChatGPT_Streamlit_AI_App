@@ -1,10 +1,10 @@
-# 🤖 Mini ChatGPT – Streamlit AI App
+# 🤖 Mini ChatGPT – Streamlit AI App:
 
 This project is a lightweight AI chatbot built using **Python**, **Streamlit**, and **OpenAI's GPT-4-mini** model.
 
 ---
 
-## 🚀 Features
+## 🚀 Features:
 - 💬 Interactive chat interface using Streamlit  
 - ⚙️ Powered by OpenAI's GPT-4-mini API  
 - 🧠 Session memory for smoother conversations  
@@ -13,7 +13,7 @@ This project is a lightweight AI chatbot built using **Python**, **Streamlit**, 
 
 ---
 
-## 🧩 Tech Stack
+## 🧩 Tech Stack:
 - **Python 3.9+**
 - **Streamlit**
 - **OpenAI API**
@@ -21,7 +21,7 @@ This project is a lightweight AI chatbot built using **Python**, **Streamlit**, 
 
 ---
 
-## ⚙️ Setup & Run Locally
+## ⚙️ Setup & Run Locally:
 
 ```bash
 # Clone the repo
